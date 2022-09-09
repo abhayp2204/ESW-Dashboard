@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/ESW-Dashboard/static/css/main.911eaeb0.css",
-    "main.js": "/ESW-Dashboard/static/js/main.cd67a719.js",
-    "static/js/787.d43e6ab2.chunk.js": "/ESW-Dashboard/static/js/787.d43e6ab2.chunk.js",
-    "static/media/HairDryer.png": "/ESW-Dashboard/static/media/HairDryer.f6037ca0b9922cfd23fe.png",
-    "index.html": "/ESW-Dashboard/index.html",
-    "main.911eaeb0.css.map": "/ESW-Dashboard/static/css/main.911eaeb0.css.map",
-    "main.cd67a719.js.map": "/ESW-Dashboard/static/js/main.cd67a719.js.map",
-    "787.d43e6ab2.chunk.js.map": "/ESW-Dashboard/static/js/787.d43e6ab2.chunk.js.map"
+    "main.css": "/esw-dash-3/static/css/main.911eaeb0.css",
+    "main.js": "/esw-dash-3/static/js/main.86b2ff3e.js",
+    "static/js/787.d43e6ab2.chunk.js": "/esw-dash-3/static/js/787.d43e6ab2.chunk.js",
+    "static/media/HairDryer.png": "/esw-dash-3/static/media/HairDryer.f6037ca0b9922cfd23fe.png",
+    "index.html": "/esw-dash-3/index.html",
+    "main.911eaeb0.css.map": "/esw-dash-3/static/css/main.911eaeb0.css.map",
+    "main.86b2ff3e.js.map": "/esw-dash-3/static/js/main.86b2ff3e.js.map",
+    "787.d43e6ab2.chunk.js.map": "/esw-dash-3/static/js/787.d43e6ab2.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.911eaeb0.css",
-    "static/js/main.cd67a719.js"
+    "static/js/main.86b2ff3e.js"
   ]
 }
