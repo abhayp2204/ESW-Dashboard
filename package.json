@@ -1,0 +1,11 @@
+{
+  "dependencies": {
+    "@syncfusion/ej2-react-calendars": "^20.2.46",
+    "asyncawait": "^3.0.0",
+    "axios": "^0.24.0",
+    "plotly.js": "^2.14.0",
+    "react-datepicker": "^4.8.0",
+    "react-plotly.js": "^2.5.1",
+    "react-time-picker": "^4.5.0"
+  }
+}
